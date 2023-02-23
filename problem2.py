@@ -1,4 +1,4 @@
-#xWrite a Python program that accepts a word from the user and reverse it.
+
 x = 0 # x = first number
 y = 1 # y = second number
 print(x)
